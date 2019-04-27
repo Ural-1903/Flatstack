@@ -1,0 +1,11 @@
+HTML
+<p><strong>Emphasized</strong></p>
+<p><em>Bold</em></p>
+<p><del>Strikethrough</del></p>
+<h1>B</h1>
+<h2>Hello</h2>
+<ul><li>A</li></ul>
+<h3>3</h3>
+<h4>4</h4>
+<h5>5</h5>
+<h6>6</h6>
